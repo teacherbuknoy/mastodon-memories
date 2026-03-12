@@ -1,7 +1,7 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import MastodonLogin from './components/MastodonLogin.vue';
 </script>
 
 <template>
-  <HelloWorld />
+  <MastodonLogin />
 </template>
